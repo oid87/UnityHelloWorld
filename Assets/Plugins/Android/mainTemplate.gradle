@@ -5,6 +5,7 @@ apply plugin: 'com.android.library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //classpath 'com.android.tools.build:gradle:5.1.1'
 **DEPS**}
 
 android {
